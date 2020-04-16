@@ -22,5 +22,8 @@ export M2=$M2_HOME/bin
 
 export PATH=$M2:$PATH
 
+
+To check the version of installation: (displays java /os versions too)
+
 mvn --version
 
